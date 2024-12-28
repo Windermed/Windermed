@@ -1,7 +1,6 @@
 <h1><b>Hello there, I'm </b><a href="https://github.com/Windermed">Windermed!</a>
-<img src="https://raw.githubusercontent.com/Windermed/Windermed/refs/heads/main/windermed_pfp.jpg" width="25%">
-<h1><b>Hello there, I'm </b><a href="https://github.com/Windermed">Windermed!</a>
 <br>
+<img src="https://raw.githubusercontent.com/Windermed/Windermed/refs/heads/main/windermed_pfp.jpg" width="25%">
 
 - 🔭 I’m currently working on: Project Nocturno, Untitled Game (WIP)
 - 🌱 I’m currently learning: C++, HTML.
