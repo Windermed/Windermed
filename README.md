@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Windermed/Windermed/refs/heads/main/windermed_pfp.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/Windermed/Windermed/refs/heads/main/windermed_pfp.jpg" width="50%">
 <h1><b>Hello there, I'm </b><a href="https://github.com/Windermed">Windermed!</a>
 <br>
 
